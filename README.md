@@ -1,6 +1,14 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&section=footer&width=300&height=100&text=JIEUN&fontSize=50)
+### Hi there, I'm Jieun 👋🏼
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jexnjeux&hide=contribs,prs&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<p align=center>
+<a href="http://bit.ly/37CSsfp"><img src="https://img.shields.io/badge/-Notion-000000?logo=Notion"/> </a>
+  <a href="mailto:zieun.na@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white"></a>
+  <a href="https://velog.io/@najiexx"><img src="https://img.shields.io/badge/-Velog-1dc996?logo=V&logoColor=white"></a>
+</p>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jexnjeux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
